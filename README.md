@@ -47,7 +47,8 @@
 
 ---
 ### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align='center' src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+&nbsp;
 
 ---
 <div align="center">
