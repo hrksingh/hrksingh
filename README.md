@@ -25,6 +25,12 @@
 * :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/hrksingh/Apache-camel-demo/pull/1) in [hrksingh/Apache-camel-demo](https://github.com/hrksingh/Apache-camel-demo)
+2. 💪 Opened PR [#1](https://github.com/hrksingh/Apache-camel-demo/pull/1) in [hrksingh/Apache-camel-demo](https://github.com/hrksingh/Apache-camel-demo)
+3. ❗️ Closed issue [#4](https://github.com/hrksingh/Spring-boot-microservices-demo/issues/4) in [hrksingh/Spring-boot-microservices-demo](https://github.com/hrksingh/Spring-boot-microservices-demo)
+4. 🗣 Commented on [#4](https://github.com/hrksingh/Spring-boot-microservices-demo/issues/4) in [hrksingh/Spring-boot-microservices-demo](https://github.com/hrksingh/Spring-boot-microservices-demo)
+5. ❗️ Opened issue [#4](https://github.com/hrksingh/Spring-boot-microservices-demo/issues/4) in [hrksingh/Spring-boot-microservices-demo](https://github.com/hrksingh/Spring-boot-microservices-demo)
+<!--END_SECTION:activity-->
 
 
 *  </b>GitHub stats: </b>
