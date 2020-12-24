@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ash  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh&color=d83a7c" alt="viewer" /></h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ash  </h1> 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies                                  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh&color=d83a7c" alt="viewer" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrksingh&theme=darkhub&column=9" alt="hrksingh" /></a> </p>
 
 --- 
