@@ -46,6 +46,10 @@
 </details>
 
 
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
