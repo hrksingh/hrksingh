@@ -6,7 +6,8 @@ on:
     pull_request:
       branches: [master]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/100 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
