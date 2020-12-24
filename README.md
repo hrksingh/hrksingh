@@ -22,7 +22,7 @@
 
 ## Quick overview
 <details>	
-* :zap: Recent Activity
+ <summary><b> :zap: Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/hrksingh/Apache-camel-demo/pull/1) in [hrksingh/Apache-camel-demo](https://github.com/hrksingh/Apache-camel-demo)
