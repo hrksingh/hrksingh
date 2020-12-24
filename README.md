@@ -57,9 +57,7 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh) 
- </div>
-
-![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
+                                                                                                                                          ![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
 
  
 <div align="center">
