@@ -49,6 +49,8 @@
 ### 😜Here's a Joke for you:
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 ---
+ ![](https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh) 
+![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
