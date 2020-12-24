@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ash</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ash  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh&color=d83a7c" alt="viewer" /></h1> 
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrksingh&theme=darkhub&column=9" alt="hrksingh" /></a> </p>
@@ -56,7 +56,7 @@
 </div>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh) 
+
 ![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hrksingh/hrksingh/graphs/commit-activity)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
