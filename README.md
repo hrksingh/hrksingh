@@ -50,7 +50,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 
 ### :godmode: Here's a Meme for you:
-<p><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="400" height="500"></p>
+<p><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="500" height="400"></p>
 
 ---
 ![](https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh) 
