@@ -53,8 +53,15 @@
 <p><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="500" height="400"></p>
 
 ---
+</div>
+
+<div align="left">
 ![](https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh) 
+ </div>
+ <div align="right">
 ![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
+ </div>
+ 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
