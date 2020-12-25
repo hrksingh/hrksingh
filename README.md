@@ -61,8 +61,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hrksingh/hrksingh/graphs/commit-activity)
 &nbsp;&nbsp;
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-&nbsp;&nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/hrksingh/hrksingh.svg)](https://GitHub.com/hrksingh/hrksingh/graphs/contributors/)
+<img align="center" src="https://img.shields.io/github/contributors/hrksingh/hrksingh.svg" alt="GitHub contributors" />
 <img align="right" src="https://img.shields.io/github/forks/hrksingh/hrksingh.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks" />
 <img align="right" src="https://img.shields.io/github/stars/hrksingh/hrksingh.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars" />
 <img align="right" src="https://img.shields.io/github/watchers/hrksingh/hrksingh.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watch" />
