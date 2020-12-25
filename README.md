@@ -63,12 +63,9 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 &nbsp;&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/hrksingh/hrksingh.svg)](https://GitHub.com/hrksingh/hrksingh/graphs/contributors/)
-&nbsp;&nbsp; &nbsp;&nbsp; &ensp;  &ensp;  &ensp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/hrksingh/hrksingh.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/hrksingh/hrksingh/)
-&nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/hrksingh/hrksingh.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/hrksingh/hrksingh/)
-&nbsp;&nbsp;
-[![GitHub watchers](https://img.shields.io/github/watchers/hrksingh/hrksingh.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/hrksingh/hrksingh/)
+<img align="right" src="https://img.shields.io/github/forks/hrksingh/hrksingh.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks" />
+<img align="right" src="https://img.shields.io/github/stars/hrksingh/hrksingh.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars" />
+<img align="right" src="https://img.shields.io/github/watchers/hrksingh/hrksingh.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watch" />
 
  
 <div align="center">
