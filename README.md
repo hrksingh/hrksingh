@@ -9,7 +9,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/hrksingh)](https://badges.pufler.dev)
 
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/hrksingh)
+[Commits Badge](https://badges.pufler.dev/commits/monthly/hrksingh)
 
 
 <p> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrksingh&theme=material-palenight&langs_count=10" /><p>
