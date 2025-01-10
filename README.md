@@ -6,7 +6,7 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-[![Repos Badge](https://badges.pufler.dev/repos/hrksingh)](https://badges.pufler.dev) &nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/hrksingh)](https://badges.pufler.dev);
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/hrksingh)
 
 
