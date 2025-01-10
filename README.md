@@ -1,25 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ash  </h1> 
 
-## 🏆 GitHub Trophies                                  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=hrksingh.hrksingh&color=d83a7c" alt="viewer" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrksingh&theme=darkhub&column=9" alt="hrksingh" /></a> </p>
-
---- 
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/hrksingh?label=Follow&style=social) &nbsp;
-![GitHub Sponsors](https://img.shields.io/github/sponsors/hrksingh?style=social)
-
-
-
-**On Github since** 
-
-[![Years Badge](https://badges.pufler.dev/years/hrksingh)](https://badges.pufler.dev)
-
-
-**Languages and Tools:**  
-
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ## Quick overview
 <details>	
@@ -45,40 +26,3 @@
 <p><img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hrksingh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hrksingh's github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrksingh&theme=dark" alt="hrksingh" /></p>
 </details>
-
----
-### 😜Here's a Joke for you:
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
-
-### :godmode: Here's a Meme for you:
-<p><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width="500" height="400"></p>
-
----
-</div>
-
-
-![Profile last updated](https://img.shields.io/github/last-commit/hrksingh/hrksingh/main?label=Last%20updated&style=flat)
-&nbsp;&nbsp;
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hrksingh/hrksingh/graphs/commit-activity)
-&nbsp;&nbsp;
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-<img align='left' src="https://img.shields.io/github/contributors/hrksingh/hrksingh.svg" alt="GitHub contributors" />
-<img align="right" src="https://img.shields.io/github/forks/hrksingh/hrksingh.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks" />
-<img align="right" src="https://img.shields.io/github/stars/hrksingh/hrksingh.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars" />
-<img align="right" src="https://img.shields.io/github/watchers/hrksingh/hrksingh.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watch" />
-
- 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<div align="center">
-
-### And
-
-</div>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
